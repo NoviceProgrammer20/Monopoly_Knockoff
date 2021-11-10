@@ -1,4 +1,4 @@
-# Monopoly_Knockoff
+# Modified_Monopoly
 A modified monopoly game created in Python
 
 Use the CSV files as data for the game
