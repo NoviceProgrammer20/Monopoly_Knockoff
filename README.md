@@ -1,6 +1,6 @@
 # Modified_Monopoly
 A modified monopoly game created in Python
 
-Use the CSV files as data for the game
+There are 2 data files that can be used, proj1_board1.csv and proj1_board2.csv. Either one can be used to run program.
 
 Pyopoly.py is the main driver file
